@@ -1,5 +1,6 @@
 
-Feature: Friendbuy referral
+Feature: Friendbuy referral flow
+  Verify the complete user journey to perform a successful referral
 
   Scenario: Verify friendbuy referral flow
     Given I go to partner websites homepage
